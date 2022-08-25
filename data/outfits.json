@@ -1,0 +1,701 @@
+{
+  "data": {
+    "allOutfits": {
+      "edges": [
+        {
+          "node": {
+            "outfit_title": [
+              {
+                "type": "heading1",
+                "text": "Strick in Wickeloptik",
+                "spans": []
+              }
+            ],
+            "_meta": {
+              "id": "YXpzzxEAACQA2ra7"
+            },
+            "media": [
+              {
+                "image": {
+                  "dimensions": {
+                    "width": 800,
+                    "height": 1200
+                  },
+                  "alt": null,
+                  "copyright": null,
+                  "url": "https://images.prismic.io/bonprix/4bd6a795-c653-4108-ab23-cb2398703563_21202115.jpg?auto=compress,format",
+                  "mobile": {
+                    "dimensions": {
+                      "width": 600,
+                      "height": 900
+                    },
+                    "alt": null,
+                    "copyright": null,
+                    "url": "https://images.prismic.io/bonprix/4bd6a795-c653-4108-ab23-cb2398703563_21202115.jpg?auto=compress,format&rect=0,0,800,1200&w=600&h=900"
+                  }
+                }
+              },
+              {
+                "image": {
+                  "dimensions": {
+                    "width": 800,
+                    "height": 1200
+                  },
+                  "alt": null,
+                  "copyright": null,
+                  "url": "https://images.prismic.io/bonprix/088734e6-6d98-4640-b3d9-62d795154c4c_21202117.jpg?auto=compress,format",
+                  "mobile": {
+                    "dimensions": {
+                      "width": 600,
+                      "height": 900
+                    },
+                    "alt": null,
+                    "copyright": null,
+                    "url": "https://images.prismic.io/bonprix/088734e6-6d98-4640-b3d9-62d795154c4c_21202117.jpg?auto=compress,format&rect=0,0,800,1200&w=600&h=900"
+                  }
+                }
+              }
+            ],
+            "product_article_numbers": [
+              {
+                "product_article_number": 927769
+              },
+              {
+                "product_article_number": 914130
+              },
+              {
+                "product_article_number": 914689
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "outfit_title": [
+              {
+                "type": "heading1",
+                "text": "Pullunder Look",
+                "spans": []
+              }
+            ],
+            "_meta": {
+              "id": "YbmQjxEAACUAals_"
+            },
+            "media": [
+              {
+                "image": {
+                  "dimensions": {
+                    "width": 800,
+                    "height": 1200
+                  },
+                  "alt": null,
+                  "copyright": null,
+                  "url": "https://images.prismic.io/bonprix/fd969238-5a96-4464-8a0d-6b6f19408cf0_21251738.jpg?auto=compress,format&rect=0,2,798,1197&w=800&h=1200",
+                  "mobile": {
+                    "dimensions": {
+                      "width": 600,
+                      "height": 900
+                    },
+                    "alt": null,
+                    "copyright": null,
+                    "url": "https://images.prismic.io/bonprix/fd969238-5a96-4464-8a0d-6b6f19408cf0_21251738.jpg?auto=compress,format&rect=0,0,800,1200&w=600&h=900"
+                  }
+                }
+              },
+              {
+                "image": {
+                  "dimensions": {
+                    "width": 800,
+                    "height": 1200
+                  },
+                  "alt": null,
+                  "copyright": null,
+                  "url": "https://images.prismic.io/bonprix/158f1ab0-0d9e-4acf-9a8b-847d757ea404_21251740.jpg?auto=compress,format&rect=0,0,800,1200&w=800&h=1200",
+                  "mobile": {
+                    "dimensions": {
+                      "width": 600,
+                      "height": 900
+                    },
+                    "alt": null,
+                    "copyright": null,
+                    "url": "https://images.prismic.io/bonprix/158f1ab0-0d9e-4acf-9a8b-847d757ea404_21251740.jpg?auto=compress,format&rect=0,0,800,1200&w=600&h=900"
+                  }
+                }
+              }
+            ],
+            "product_article_numbers": [
+              {
+                "product_article_number": 944327
+              },
+              {
+                "product_article_number": 944167
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "outfit_title": [
+              {
+                "type": "heading1",
+                "text": "Oversized Cardigan",
+                "spans": []
+              }
+            ],
+            "_meta": {
+              "id": "YXpyIxEAACQA2q7P"
+            },
+            "media": [
+              {
+                "image": {
+                  "dimensions": {
+                    "width": 800,
+                    "height": 1200
+                  },
+                  "alt": null,
+                  "copyright": null,
+                  "url": "https://images.prismic.io/bonprix/7c596cbf-b24e-403b-8f99-857ac021a7d0_21202181.jpg?auto=compress,format",
+                  "mobile": {
+                    "dimensions": {
+                      "width": 600,
+                      "height": 900
+                    },
+                    "alt": null,
+                    "copyright": null,
+                    "url": "https://images.prismic.io/bonprix/7c596cbf-b24e-403b-8f99-857ac021a7d0_21202181.jpg?auto=compress,format&rect=0,0,800,1200&w=600&h=900"
+                  }
+                }
+              },
+              {
+                "image": {
+                  "dimensions": {
+                    "width": 800,
+                    "height": 1200
+                  },
+                  "alt": null,
+                  "copyright": null,
+                  "url": "https://images.prismic.io/bonprix/8d25be33-629b-4448-91a7-cb37128cf122_21202180.jpg?auto=compress,format",
+                  "mobile": {
+                    "dimensions": {
+                      "width": 600,
+                      "height": 900
+                    },
+                    "alt": null,
+                    "copyright": null,
+                    "url": "https://images.prismic.io/bonprix/8d25be33-629b-4448-91a7-cb37128cf122_21202180.jpg?auto=compress,format&rect=0,0,800,1200&w=600&h=900"
+                  }
+                }
+              }
+            ],
+            "product_article_numbers": [
+              {
+                "product_article_number": 943274
+              },
+              {
+                "product_article_number": 949882
+              },
+              {
+                "product_article_number": 922230
+              },
+              {
+                "product_article_number": 918446
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "outfit_title": [
+              {
+                "type": "heading1",
+                "text": "Figurbetontes Strickkleid",
+                "spans": []
+              }
+            ],
+            "_meta": {
+              "id": "YXpehBEAACMA2lId"
+            },
+            "media": [
+              {
+                "image": {
+                  "dimensions": {
+                    "width": 800,
+                    "height": 1200
+                  },
+                  "alt": null,
+                  "copyright": null,
+                  "url": "https://images.prismic.io/bonprix/b320399e-f960-42cb-8d4a-4ab65f229d56_21202158.jpg?auto=compress,format",
+                  "mobile": {
+                    "dimensions": {
+                      "width": 600,
+                      "height": 900
+                    },
+                    "alt": null,
+                    "copyright": null,
+                    "url": "https://images.prismic.io/bonprix/b320399e-f960-42cb-8d4a-4ab65f229d56_21202158.jpg?auto=compress,format&rect=0,0,800,1200&w=600&h=900"
+                  }
+                }
+              },
+              {
+                "image": {
+                  "dimensions": {
+                    "width": 800,
+                    "height": 1200
+                  },
+                  "alt": null,
+                  "copyright": null,
+                  "url": "https://images.prismic.io/bonprix/28f9c54b-0046-44d2-873b-e39cf61184fe_21202160.jpg?auto=compress,format",
+                  "mobile": {
+                    "dimensions": {
+                      "width": 600,
+                      "height": 900
+                    },
+                    "alt": null,
+                    "copyright": null,
+                    "url": "https://images.prismic.io/bonprix/28f9c54b-0046-44d2-873b-e39cf61184fe_21202160.jpg?auto=compress,format&rect=0,0,800,1200&w=600&h=900"
+                  }
+                }
+              },
+              {
+                "image": {
+                  "dimensions": {
+                    "width": 800,
+                    "height": 1200
+                  },
+                  "alt": null,
+                  "copyright": null,
+                  "url": "https://images.prismic.io/bonprix/3e5a301f-a6c8-4b6c-937e-1c1618975b0b_21202161.jpg?auto=compress,format",
+                  "mobile": {
+                    "dimensions": {
+                      "width": 600,
+                      "height": 900
+                    },
+                    "alt": null,
+                    "copyright": null,
+                    "url": "https://images.prismic.io/bonprix/3e5a301f-a6c8-4b6c-937e-1c1618975b0b_21202161.jpg?auto=compress,format&rect=0,0,800,1200&w=600&h=900"
+                  }
+                }
+              }
+            ],
+            "product_article_numbers": [
+              {
+                "product_article_number": 918946
+              },
+              {
+                "product_article_number": 914689
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "outfit_title": [
+              {
+                "type": "heading1",
+                "text": "Pullover-Rock-Kombi",
+                "spans": []
+              }
+            ],
+            "_meta": {
+              "id": "YbMBXREAACUAW6Wk"
+            },
+            "media": [
+              {
+                "image": {
+                  "dimensions": {
+                    "width": 800,
+                    "height": 1200
+                  },
+                  "alt": null,
+                  "copyright": null,
+                  "url": "https://images.prismic.io/bonprix/422d9f51-dfd0-42ff-ac81-3711ba7761b0_21253409.jpg?auto=compress,format&rect=0,0,800,1200&w=800&h=1200",
+                  "mobile": {
+                    "dimensions": {
+                      "width": 600,
+                      "height": 900
+                    },
+                    "alt": null,
+                    "copyright": null,
+                    "url": "https://images.prismic.io/bonprix/422d9f51-dfd0-42ff-ac81-3711ba7761b0_21253409.jpg?auto=compress,format&rect=0,0,800,1200&w=600&h=900"
+                  }
+                }
+              },
+              {
+                "image": {
+                  "dimensions": {
+                    "width": 800,
+                    "height": 1200
+                  },
+                  "alt": null,
+                  "copyright": null,
+                  "url": "https://images.prismic.io/bonprix/7ecfef0d-e5ef-4ea3-94e6-71f438343934_21253407.jpg?auto=compress,format&rect=0,0,800,1200&w=800&h=1200",
+                  "mobile": {
+                    "dimensions": {
+                      "width": 600,
+                      "height": 900
+                    },
+                    "alt": null,
+                    "copyright": null,
+                    "url": "https://images.prismic.io/bonprix/7ecfef0d-e5ef-4ea3-94e6-71f438343934_21253407.jpg?auto=compress,format&rect=0,0,800,1200&w=600&h=900"
+                  }
+                }
+              }
+            ],
+            "product_article_numbers": [
+              {
+                "product_article_number": 940320
+              },
+              {
+                "product_article_number": 925547
+              },
+              {
+                "product_article_number": 924239
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "outfit_title": [
+              {
+                "type": "heading1",
+                "text": "Cropped Cardigan",
+                "spans": []
+              }
+            ],
+            "_meta": {
+              "id": "YXputREAACYA2p5H"
+            },
+            "media": [
+              {
+                "image": {
+                  "dimensions": {
+                    "width": 800,
+                    "height": 1200
+                  },
+                  "alt": null,
+                  "copyright": null,
+                  "url": "https://images.prismic.io/bonprix/9e79c18d-c743-4075-8d34-4601d6816ce8_5.jpg?auto=compress,format",
+                  "mobile": {
+                    "dimensions": {
+                      "width": 600,
+                      "height": 900
+                    },
+                    "alt": null,
+                    "copyright": null,
+                    "url": "https://images.prismic.io/bonprix/9e79c18d-c743-4075-8d34-4601d6816ce8_5.jpg?auto=compress,format&rect=0,0,800,1200&w=600&h=900"
+                  }
+                }
+              },
+              {
+                "image": {
+                  "dimensions": {
+                    "width": 800,
+                    "height": 1200
+                  },
+                  "alt": null,
+                  "copyright": null,
+                  "url": "https://images.prismic.io/bonprix/fc24e4da-2409-456b-bfb8-07161cf4946c_4.jpg?auto=compress,format",
+                  "mobile": {
+                    "dimensions": {
+                      "width": 600,
+                      "height": 900
+                    },
+                    "alt": null,
+                    "copyright": null,
+                    "url": "https://images.prismic.io/bonprix/fc24e4da-2409-456b-bfb8-07161cf4946c_4.jpg?auto=compress,format&rect=0,0,800,1200&w=600&h=900"
+                  }
+                }
+              }
+            ],
+            "product_article_numbers": [
+              {
+                "product_article_number": 939497
+              },
+              {
+                "product_article_number": 940365
+              },
+              {
+                "product_article_number": 922230
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "outfit_title": [
+              {
+                "type": "heading1",
+                "text": "Trendiger Blazermantel",
+                "spans": []
+              }
+            ],
+            "_meta": {
+              "id": "YX_xbBEAACUA8sXN"
+            },
+            "media": [
+              {
+                "image": {
+                  "dimensions": {
+                    "width": 800,
+                    "height": 1200
+                  },
+                  "alt": null,
+                  "copyright": null,
+                  "url": "https://images.prismic.io/bonprix/1d99f9ba-6bcb-40e0-a4f0-4dab2a8fe550_21202132.jpg?auto=compress,format",
+                  "mobile": {
+                    "dimensions": {
+                      "width": 600,
+                      "height": 900
+                    },
+                    "alt": null,
+                    "copyright": null,
+                    "url": "https://images.prismic.io/bonprix/1d99f9ba-6bcb-40e0-a4f0-4dab2a8fe550_21202132.jpg?auto=compress,format&rect=0,0,800,1200&w=600&h=900"
+                  }
+                }
+              },
+              {
+                "image": {
+                  "dimensions": {
+                    "width": 800,
+                    "height": 1200
+                  },
+                  "alt": null,
+                  "copyright": null,
+                  "url": "https://images.prismic.io/bonprix/0654a2ea-e2d3-44d6-b8de-aeed0573736e_21202133.jpg?auto=compress,format",
+                  "mobile": {
+                    "dimensions": {
+                      "width": 600,
+                      "height": 900
+                    },
+                    "alt": null,
+                    "copyright": null,
+                    "url": "https://images.prismic.io/bonprix/0654a2ea-e2d3-44d6-b8de-aeed0573736e_21202133.jpg?auto=compress,format&rect=0,0,800,1200&w=600&h=900"
+                  }
+                }
+              }
+            ],
+            "product_article_numbers": [
+              {
+                "product_article_number": 940337
+              },
+              {
+                "product_article_number": 939710
+              },
+              {
+                "product_article_number": 909138
+              },
+              {
+                "product_article_number": 914689
+              },
+              {
+                "product_article_number": 921158
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "outfit_title": [
+              {
+                "type": "heading1",
+                "text": "Layering Look",
+                "spans": []
+              }
+            ],
+            "_meta": {
+              "id": "YV2fthIAACEAUfzs"
+            },
+            "media": [
+              {
+                "image": {
+                  "dimensions": {
+                    "width": 800,
+                    "height": 1200
+                  },
+                  "alt": null,
+                  "copyright": null,
+                  "url": "https://images.prismic.io/bonprix/70ace3ac-e82b-4cf4-a775-5f22b042441c_21202105.jpg?auto=compress,format",
+                  "mobile": {
+                    "dimensions": {
+                      "width": 600,
+                      "height": 900
+                    },
+                    "alt": null,
+                    "copyright": null,
+                    "url": "https://images.prismic.io/bonprix/70ace3ac-e82b-4cf4-a775-5f22b042441c_21202105.jpg?auto=compress,format&rect=0,0,800,1200&w=600&h=900"
+                  }
+                }
+              },
+              {
+                "image": {
+                  "dimensions": {
+                    "width": 800,
+                    "height": 1200
+                  },
+                  "alt": null,
+                  "copyright": null,
+                  "url": "https://images.prismic.io/bonprix/b60b8d9d-8b5b-4b1b-a9f8-9ebabc258fe3_21202104.jpg?auto=compress,format",
+                  "mobile": {
+                    "dimensions": {
+                      "width": 600,
+                      "height": 900
+                    },
+                    "alt": null,
+                    "copyright": null,
+                    "url": "https://images.prismic.io/bonprix/b60b8d9d-8b5b-4b1b-a9f8-9ebabc258fe3_21202104.jpg?auto=compress,format&rect=0,0,800,1200&w=600&h=900"
+                  }
+                }
+              }
+            ],
+            "product_article_numbers": [
+              {
+                "product_article_number": 943220
+              },
+              {
+                "product_article_number": 935529
+              },
+              {
+                "product_article_number": 925100
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "outfit_title": [
+              {
+                "type": "heading1",
+                "text": "Royal Pullover",
+                "spans": []
+              }
+            ],
+            "_meta": {
+              "id": "YXpv1hEAACMA2qO2"
+            },
+            "media": [
+              {
+                "image": {
+                  "dimensions": {
+                    "width": 800,
+                    "height": 1200
+                  },
+                  "alt": null,
+                  "copyright": null,
+                  "url": "https://images.prismic.io/bonprix/db533863-74ef-466e-b05f-4b5e48ea05a0_21202146.jpg?auto=compress,format",
+                  "mobile": {
+                    "dimensions": {
+                      "width": 600,
+                      "height": 900
+                    },
+                    "alt": null,
+                    "copyright": null,
+                    "url": "https://images.prismic.io/bonprix/db533863-74ef-466e-b05f-4b5e48ea05a0_21202146.jpg?auto=compress,format&rect=0,0,800,1200&w=600&h=900"
+                  }
+                }
+              },
+              {
+                "image": {
+                  "dimensions": {
+                    "width": 800,
+                    "height": 1200
+                  },
+                  "alt": null,
+                  "copyright": null,
+                  "url": "https://images.prismic.io/bonprix/c87395bc-c30a-413e-8cba-b69315246dfc_21202143.jpg?auto=compress,format",
+                  "mobile": {
+                    "dimensions": {
+                      "width": 600,
+                      "height": 900
+                    },
+                    "alt": null,
+                    "copyright": null,
+                    "url": "https://images.prismic.io/bonprix/c87395bc-c30a-413e-8cba-b69315246dfc_21202143.jpg?auto=compress,format&rect=0,0,800,1200&w=600&h=900"
+                  }
+                }
+              }
+            ],
+            "product_article_numbers": [
+              {
+                "product_article_number": 929663
+              },
+              {
+                "product_article_number": 907809
+              },
+              {
+                "product_article_number": 914689
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "outfit_title": [
+              {
+                "type": "heading1",
+                "text": "Blumenmusterkleid",
+                "spans": []
+              }
+            ],
+            "_meta": {
+              "id": "YYDpuxEAACYA9q2B"
+            },
+            "media": [
+              {
+                "image": {
+                  "dimensions": {
+                    "width": 800,
+                    "height": 1200
+                  },
+                  "alt": null,
+                  "copyright": null,
+                  "url": "https://images.prismic.io/bonprix/1461eae1-21f9-4914-be34-e31ad555711a_21202140.jpg?auto=compress,format",
+                  "mobile": {
+                    "dimensions": {
+                      "width": 600,
+                      "height": 900
+                    },
+                    "alt": null,
+                    "copyright": null,
+                    "url": "https://images.prismic.io/bonprix/1461eae1-21f9-4914-be34-e31ad555711a_21202140.jpg?auto=compress,format&rect=0,0,800,1200&w=600&h=900"
+                  }
+                }
+              },
+              {
+                "image": {
+                  "dimensions": {
+                    "width": 800,
+                    "height": 1200
+                  },
+                  "alt": null,
+                  "copyright": null,
+                  "url": "https://images.prismic.io/bonprix/ecdea221-cb65-4488-8a33-8393461e8b22_21202141.jpg?auto=compress,format",
+                  "mobile": {
+                    "dimensions": {
+                      "width": 600,
+                      "height": 900
+                    },
+                    "alt": null,
+                    "copyright": null,
+                    "url": "https://images.prismic.io/bonprix/ecdea221-cb65-4488-8a33-8393461e8b22_21202141.jpg?auto=compress,format&rect=0,0,800,1200&w=600&h=900"
+                  }
+                }
+              }
+            ],
+            "product_article_numbers": [
+              {
+                "product_article_number": 904489
+              },
+              {
+                "product_article_number": 928213
+              },
+              {
+                "product_article_number": 911325
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}
