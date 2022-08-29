@@ -28,6 +28,7 @@ export default createServer<NextApiRequest, NextApiResponse>({
       }
 
       type Query {
+        outfit(id: String!): Outfit
         outfits: [Outfit!]!
         products(filter: String): [Product!]!
       }
@@ -35,6 +36,18 @@ export default createServer<NextApiRequest, NextApiResponse>({
 
     resolvers: {
       Query: {
+        outfit: (_: unknown, args: { id: string }): Outfit | null => {
+          const outfitNode = outfitData.data.allOutfits.edges.find(
+            (edge) => edge.node._meta.id === args.id
+          );
+
+          if (!outfitNode) {
+            return null;
+          }
+
+          return transformOutfit(outfitNode);
+        },
+
         outfits: (): Outfit[] =>
           outfitData.data.allOutfits.edges.map(transformOutfit),
 
