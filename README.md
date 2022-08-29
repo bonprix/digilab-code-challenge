@@ -65,6 +65,11 @@ function MyComponent() {
 Usage of other Next.js APIs such as `getStaticProps` is, of course, allowed and welcome but
 not necessary.
 
+You will notice the the GraphQL-API sadly does not know the relation between products and outfits so
+you cannot fetch an outfit with its corresponding products directly. Instead you will need to
+fetch the products separately. You can assume that the products API would, in reality, return
+a very large number of products when no filter is applied so we'd recommend not to fetch all products at once in "production".
+
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
