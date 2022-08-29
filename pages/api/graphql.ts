@@ -36,47 +36,25 @@ export default createServer<NextApiRequest, NextApiResponse>({
     resolvers: {
       Query: {
         outfits: (): Outfit[] =>
-          outfitData.data.allOutfits.edges.map((edge) => ({
-            id: edge.node._meta.id,
-            title: edge.node.outfit_title[0]!.text,
-            image: {
-              url: edge.node.media[0]!.image.url,
-              width: edge.node.media[0]!.image.dimensions.width!,
-              height: edge.node.media[0]?.image.dimensions.height!,
-            },
-            products: edge.node.product_article_numbers.map((article) =>
-              article.product_article_number.toString()
-            ),
-          })),
+          outfitData.data.allOutfits.edges.map(transformOutfit),
 
         products: (_: unknown, args: { filter: string }): Product[] => {
-          const keys = /key in \(([0-9,]+)\)/
-            .exec(args.filter)?.[1]
-            ?.toString()
-            ?.split(",");
+          if (!args.filter) {
+            return productData.data.products.results.map(transformProduct);
+          }
+
+          const matches = /key in \(([0-9, ]+)\)/.exec(args.filter)?.[1];
+
+          if (typeof matches !== "string") {
+            throw new Error(
+              'Product filters must be specified as "key in (<keys>)" where <keys> is a comma separated list of product keys'
+            );
+          }
+          const keys = matches.split(",").map((product) => product.trim());
 
           return productData.data.products.results
             .filter((product) => keys?.includes(product.key))
-            .map((product) => ({
-              key: product.key,
-              title: product.masterData.staged.nameAllLocales[0]!.value,
-              image: {
-                url: product.masterData.staged.masterVariant.images[0]!.url,
-                width: parseInt(
-                  /\/([0-9]+)x([0-9]+)\//.exec(
-                    product.masterData.staged.masterVariant.images[0]!.url
-                  )![1]!
-                ),
-                height: parseInt(
-                  /\/([0-9]+)x([0-9]+)\//.exec(
-                    product.masterData.staged.masterVariant.images[0]!.url
-                  )![2]!
-                ),
-              },
-              bonprixLink:
-                product.masterData.staged.masterVariant.attributesRaw[0]!.value
-                  .de,
-            }));
+            .map(transformProduct);
         },
       },
     },
@@ -100,5 +78,46 @@ type Product = {
   key: string;
   title: string;
   image: Image;
-  bonprixLink: string;
+  bonprixLink?: string;
 };
+
+function transformOutfit(
+  edge: typeof outfitData.data.allOutfits.edges[number]
+): Outfit {
+  return {
+    id: edge.node._meta.id,
+    title: edge.node.outfit_title[0]!.text,
+    image: {
+      url: edge.node.media[0]!.image.url,
+      width: edge.node.media[0]!.image.dimensions.width!,
+      height: edge.node.media[0]?.image.dimensions.height!,
+    },
+    products: edge.node.product_article_numbers.map((article) =>
+      article.product_article_number.toString()
+    ),
+  };
+}
+
+function transformProduct(
+  product: typeof productData.data.products.results[number]
+): Product {
+  return {
+    key: product.key,
+    title: product.masterData.staged.nameAllLocales[0]!.value,
+    image: {
+      url: product.masterData.staged.masterVariant.images[0]!.url,
+      width: parseInt(
+        /\/([0-9]+)x([0-9]+)\//.exec(
+          product.masterData.staged.masterVariant.images[0]!.url
+        )![1]!
+      ),
+      height: parseInt(
+        /\/([0-9]+)x([0-9]+)\//.exec(
+          product.masterData.staged.masterVariant.images[0]!.url
+        )![2]!
+      ),
+    },
+    bonprixLink:
+      product.masterData.staged.masterVariant.attributesRaw[0]?.value.de,
+  };
+}
