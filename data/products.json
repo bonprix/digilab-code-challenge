@@ -3,55 +3,55 @@
     "products": {
       "results": [
         {
-          "key": "909138",
+          "key": "903129",
           "masterData": {
             "staged": {
               "nameAllLocales": [
                 {
                   "locale": "de",
-                  "value": "Hose in Cordoptik mit elastischem Bund"
+                  "value": "Marco Tozzi Boot"
                 }
               ],
               "description": null,
               "masterVariant": {
                 "images": [
                   {
-                    "url": "https://image01.bonprix.de/assets/1400x1960/1592474579/20134656-3MjPfbTB.jpg",
+                    "url": "https://image01.bonprix.de/assets/1400x1960/0/20148716-eidD1kUn.jpg",
                     "dimensions": {
                       "width": 0,
                       "height": 0
                     }
                   },
                   {
-                    "url": "https://image01.bonprix.de/assets/1400x1960/0/20131418-0SrdwaiS.jpg",
+                    "url": "https://image01.bonprix.de/assets/1400x1960/0/20148719-kBxpCMAT.jpg",
                     "dimensions": {
                       "width": 0,
                       "height": 0
                     }
                   },
                   {
-                    "url": "https://image01.bonprix.de/assets/1400x1960/0/20131422-iJvkAPEF.jpg",
+                    "url": "https://image01.bonprix.de/assets/1400x1960/0/20148717-znps2aWH.jpg",
                     "dimensions": {
                       "width": 0,
                       "height": 0
                     }
                   },
                   {
-                    "url": "https://image01.bonprix.de/assets/1400x1960/0/20131421-3cLrMyIa.jpg",
+                    "url": "https://image01.bonprix.de/assets/1400x1960/0/20148720-96m3D5hq.jpg",
                     "dimensions": {
                       "width": 0,
                       "height": 0
                     }
                   },
                   {
-                    "url": "https://image01.bonprix.de/assets/1400x1960/0/20131420-TKLbSv6x.jpg",
+                    "url": "https://image01.bonprix.de/assets/1400x1960/0/20148718-80rbayFb.jpg",
                     "dimensions": {
                       "width": 0,
                       "height": 0
                     }
                   },
                   {
-                    "url": "https://image01.bonprix.de/assets/1400x1960/1592202770/20131419-8fjdRG40.jpg",
+                    "url": "https://image01.bonprix.de/assets/1400x1960/0/20148659-mJ0G6rIw.jpg",
                     "dimensions": {
                       "width": 0,
                       "height": 0
@@ -62,7 +62,7 @@
                   {
                     "name": "bonprixLink",
                     "value": {
-                      "de": "https://www.bonprix.de/produkt/hose-in-cordoptik-mit-elastischem-bund-cognac-909138/"
+                      "de": "https://www.bonprix.de/produkt/marco-tozzi-boot-beige-903129/"
                     }
                   }
                 ]
@@ -71,62 +71,62 @@
           }
         },
         {
-          "key": "918946",
+          "key": "918612",
           "masterData": {
             "staged": {
               "nameAllLocales": [
                 {
                   "locale": "de",
-                  "value": "Strickkleid mit Reißverschluss"
+                  "value": "Baumwoll-Langarmshirt mit Rundhalsausschnitt"
                 }
               ],
               "description": null,
               "masterVariant": {
                 "images": [
                   {
-                    "url": "https://image01.bonprix.de/assets/1400x1960/0/20134107-p8FMkAfa.jpg",
+                    "url": "https://image01.bonprix.de/assets/1400x1960/1486747081/12111635-uBBPexWk.jpg",
                     "dimensions": {
                       "width": 0,
                       "height": 0
                     }
                   },
                   {
-                    "url": "https://image01.bonprix.de/assets/1400x1960/0/20142699-dR8iyRAB.jpg",
+                    "url": "https://image01.bonprix.de/assets/1400x1960/1497598949/17143660-LtBibWqC.jpg",
                     "dimensions": {
                       "width": 0,
                       "height": 0
                     }
                   },
                   {
-                    "url": "https://image01.bonprix.de/assets/1400x1960/0/20142708-YzDYPJjo.jpg",
+                    "url": "https://image01.bonprix.de/assets/1400x1960/1497599014/17143662-VkaxEtcC.jpg",
                     "dimensions": {
                       "width": 0,
                       "height": 0
                     }
                   },
                   {
-                    "url": "https://image01.bonprix.de/assets/1400x1960/0/20142705-mgKoSKXB.jpg",
+                    "url": "https://image01.bonprix.de/assets/1400x1960/1500558565/17143659-1rHLhaCe.jpg",
                     "dimensions": {
                       "width": 0,
                       "height": 0
                     }
                   },
                   {
-                    "url": "https://image01.bonprix.de/assets/1400x1960/0/20142703-NnuURwQU.jpg",
+                    "url": "https://image01.bonprix.de/assets/1400x1960/1497598844/17143661-6q7FguHd.jpg",
                     "dimensions": {
                       "width": 0,
                       "height": 0
                     }
                   },
                   {
-                    "url": "https://image01.bonprix.de/assets/1400x1960/0/20142701-qdWdDXRx.jpg",
+                    "url": "https://image01.bonprix.de/assets/1400x1960/1541430578/18338602-x1poI9Dx.jpg",
                     "dimensions": {
                       "width": 0,
                       "height": 0
                     }
                   },
                   {
-                    "url": "https://image01.bonprix.de/assets/1400x1960/1597842065/20151533-Bd882Gxk.jpg",
+                    "url": "https://image01.bonprix.de/assets/1400x1960/1638442457/20274868-JaHPfe8T.jpg",
                     "dimensions": {
                       "width": 0,
                       "height": 0
@@ -137,7 +137,7 @@
                   {
                     "name": "bonprixLink",
                     "value": {
-                      "de": "https://www.bonprix.de/produkt/strickkleid-mit-reissverschluss-wollweiss-918946/"
+                      "de": "https://www.bonprix.de/produkt/baumwoll-langarmshirt-mit-rundhalsausschnitt-weiss-918612/"
                     }
                   }
                 ]
@@ -146,55 +146,62 @@
           }
         },
         {
-          "key": "922230",
+          "key": "920472",
           "masterData": {
             "staged": {
               "nameAllLocales": [
                 {
                   "locale": "de",
-                  "value": "Chelsea Boot"
+                  "value": "Rollkragenpullover"
                 }
               ],
               "description": null,
               "masterVariant": {
                 "images": [
                   {
-                    "url": "https://image01.bonprix.de/assets/1400x1960/1626078596/21166985-78SFDzAE.jpg",
+                    "url": "https://image01.bonprix.de/assets/1400x1960/1541679295/15113241-fIiNCO6Z.jpg",
                     "dimensions": {
                       "width": 0,
                       "height": 0
                     }
                   },
                   {
-                    "url": "https://image01.bonprix.de/assets/1400x1960/1625823197/21170224-IpnuvnyR.jpg",
+                    "url": "https://image01.bonprix.de/assets/1400x1960/1538661867/18305422-pRd4sfdA.jpg",
                     "dimensions": {
                       "width": 0,
                       "height": 0
                     }
                   },
                   {
-                    "url": "https://image01.bonprix.de/assets/1400x1960/1626078598/21170007-92dUA35w.jpg",
+                    "url": "https://image01.bonprix.de/assets/1400x1960/1538661880/18305423-qflhTfzf.jpg",
                     "dimensions": {
                       "width": 0,
                       "height": 0
                     }
                   },
                   {
-                    "url": "https://image01.bonprix.de/assets/1400x1960/1625813989/21170045-PD6PZ23C.jpg",
+                    "url": "https://image01.bonprix.de/assets/1400x1960/1538661860/18305428-MhCMvBEb.jpg",
                     "dimensions": {
                       "width": 0,
                       "height": 0
                     }
                   },
                   {
-                    "url": "https://image01.bonprix.de/assets/1400x1960/1625813863/21170043-rzmGGJGA.jpg",
+                    "url": "https://image01.bonprix.de/assets/1400x1960/1538661916/18305421-Ta64DmvS.jpg",
                     "dimensions": {
                       "width": 0,
                       "height": 0
                     }
                   },
                   {
-                    "url": "https://image01.bonprix.de/assets/1400x1960/1625489368/21165874-Mx6FNuYl.jpg",
+                    "url": "https://image01.bonprix.de/assets/1400x1960/1538661948/18305420-UMmD0gnv.jpg",
+                    "dimensions": {
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "url": "https://image01.bonprix.de/assets/1400x1960/1597146268/17307046-Drtxma1T.jpg",
                     "dimensions": {
                       "width": 0,
                       "height": 0
@@ -205,7 +212,7 @@
                   {
                     "name": "bonprixLink",
                     "value": {
-                      "de": "https://www.bonprix.de/produkt/chelsea-boot-schwarz-922230/"
+                      "de": "https://www.bonprix.de/produkt/rollkragenpullover-wollweiss-920472/"
                     }
                   }
                 ]
@@ -214,55 +221,62 @@
           }
         },
         {
-          "key": "924239",
+          "key": "959352",
           "masterData": {
             "staged": {
               "nameAllLocales": [
                 {
                   "locale": "de",
-                  "value": "Pumps"
+                  "value": "Skinny Komfort-Stretch-Jeans"
                 }
               ],
               "description": null,
               "masterVariant": {
                 "images": [
                   {
-                    "url": "https://image01.bonprix.de/assets/1400x1960/0/19028369-MaInHKA3.jpg",
+                    "url": "https://image01.bonprix.de/assets/1400x1960/1574346739/19347946-Mt7WkT1t.jpg",
                     "dimensions": {
                       "width": 0,
                       "height": 0
                     }
                   },
                   {
-                    "url": "https://image01.bonprix.de/assets/1400x1960/0/16261877-o8r5hpie.jpg",
+                    "url": "https://image01.bonprix.de/assets/1400x1960/0/19375035-OTNa9Tpl.jpg",
                     "dimensions": {
                       "width": 0,
                       "height": 0
                     }
                   },
                   {
-                    "url": "https://image01.bonprix.de/assets/1400x1960/0/19027828-Ov8rPD3Y.jpg",
+                    "url": "https://image01.bonprix.de/assets/1400x1960/0/19375034-GWH5svnS.jpg",
                     "dimensions": {
                       "width": 0,
                       "height": 0
                     }
                   },
                   {
-                    "url": "https://image01.bonprix.de/assets/1400x1960/0/16264104-YxgUCbz0.jpg",
+                    "url": "https://image01.bonprix.de/assets/1400x1960/0/19375042-0H9qyQMn.jpg",
                     "dimensions": {
                       "width": 0,
                       "height": 0
                     }
                   },
                   {
-                    "url": "https://image01.bonprix.de/assets/1400x1960/0/19231629-a3MuNDdP.jpg",
+                    "url": "https://image01.bonprix.de/assets/1400x1960/0/19375024-NLwU7cUe.jpg",
                     "dimensions": {
                       "width": 0,
                       "height": 0
                     }
                   },
                   {
-                    "url": "https://image01.bonprix.de/assets/1400x1960/0/19027829-GL6tzHTj.jpg",
+                    "url": "https://image01.bonprix.de/assets/1400x1960/0/19375023-itrKUEcL.jpg",
+                    "dimensions": {
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "url": "https://image01.bonprix.de/assets/1400x1960/0/19351825-jJfkIWm3.jpg",
                     "dimensions": {
                       "width": 0,
                       "height": 0
@@ -273,7 +287,7 @@
                   {
                     "name": "bonprixLink",
                     "value": {
-                      "de": "https://www.bonprix.de/produkt/pumps-beige-924239/"
+                      "de": "https://www.bonprix.de/produkt/skinny-komfort-stretch-jeans-hellblau-used-959352/"
                     }
                   }
                 ]
@@ -282,55 +296,62 @@
           }
         },
         {
-          "key": "925100",
+          "key": "960877",
           "masterData": {
             "staged": {
               "nameAllLocales": [
                 {
                   "locale": "de",
-                  "value": "Kleid"
+                  "value": "Cordhose mit Schlitz"
                 }
               ],
               "description": null,
               "masterVariant": {
                 "images": [
                   {
-                    "url": "https://image01.bonprix.de/assets/1400x1960/0/21139116-fOkpTgr4.jpg",
+                    "url": "https://image01.bonprix.de/assets/1400x1960/1657088917/22147877-3y1cHshB.jpg",
                     "dimensions": {
                       "width": 0,
                       "height": 0
                     }
                   },
                   {
-                    "url": "https://image01.bonprix.de/assets/1400x1960/0/21133245-qmKA7DAi.jpg",
+                    "url": "https://image01.bonprix.de/assets/1400x1960/1656317614/22139263-H9kxIz3m.jpg",
                     "dimensions": {
                       "width": 0,
                       "height": 0
                     }
                   },
                   {
-                    "url": "https://image01.bonprix.de/assets/1400x1960/0/21133241-NzMEgmzs.jpg",
+                    "url": "https://image01.bonprix.de/assets/1400x1960/1656317666/22139259-bDhZVq3U.jpg",
                     "dimensions": {
                       "width": 0,
                       "height": 0
                     }
                   },
                   {
-                    "url": "https://image01.bonprix.de/assets/1400x1960/1622447346/21133244-FdNS2TB5.jpg",
+                    "url": "https://image01.bonprix.de/assets/1400x1960/1656317595/22139260-oyqY9njr.jpg",
                     "dimensions": {
                       "width": 0,
                       "height": 0
                     }
                   },
                   {
-                    "url": "https://image01.bonprix.de/assets/1400x1960/1622447334/21133248-ob4570Qg.jpg",
+                    "url": "https://image01.bonprix.de/assets/1400x1960/1656317593/22139262-EutYi380.jpg",
                     "dimensions": {
                       "width": 0,
                       "height": 0
                     }
                   },
                   {
-                    "url": "https://image01.bonprix.de/assets/1400x1960/0/21133247-hpZohq1Y.jpg",
+                    "url": "https://image01.bonprix.de/assets/1400x1960/1656317607/22139261-VxzQYOaM.jpg",
+                    "dimensions": {
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "url": "https://image01.bonprix.de/assets/1400x1960/0/22154422-GGPeQEPr.jpg",
                     "dimensions": {
                       "width": 0,
                       "height": 0
@@ -341,7 +362,7 @@
                   {
                     "name": "bonprixLink",
                     "value": {
-                      "de": "https://www.bonprix.de/produkt/kleid-mattorange-gebluemt-925100/"
+                      "de": "https://www.bonprix.de/produkt/cordhose-mit-schlitz-mahagonibraun-960877/"
                     }
                   }
                 ]
@@ -350,116 +371,55 @@
           }
         },
         {
-          "key": "925547",
+          "key": "962393",
           "masterData": {
             "staged": {
               "nameAllLocales": [
                 {
                   "locale": "de",
-                  "value": "Rock mit Volants"
+                  "value": "Schnür Boot"
                 }
               ],
               "description": null,
               "masterVariant": {
                 "images": [
                   {
-                    "url": "https://image01.bonprix.de/assets/1400x1960/0/21224604-A2W5XIjf.jpg",
+                    "url": "https://image01.bonprix.de/assets/1400x1960/0/22149985-vpMlGxpq.jpg",
                     "dimensions": {
                       "width": 0,
                       "height": 0
                     }
                   },
                   {
-                    "url": "https://image01.bonprix.de/assets/1400x1960/0/21235287-qmKAwLR2.jpg",
+                    "url": "https://image01.bonprix.de/assets/1400x1960/0/22146697-ja4NBKEH.jpg",
                     "dimensions": {
                       "width": 0,
                       "height": 0
                     }
                   },
                   {
-                    "url": "https://image01.bonprix.de/assets/1400x1960/0/21235289-gyuMJjQZ.jpg",
+                    "url": "https://image01.bonprix.de/assets/1400x1960/0/22146676-PcK4CsFP.jpg",
                     "dimensions": {
                       "width": 0,
                       "height": 0
                     }
                   },
                   {
-                    "url": "https://image01.bonprix.de/assets/1400x1960/0/21235286-wXOHgHbC.jpg",
+                    "url": "https://image01.bonprix.de/assets/1400x1960/1656998468/22146679-tJKDibzt.jpg",
                     "dimensions": {
                       "width": 0,
                       "height": 0
                     }
                   },
                   {
-                    "url": "https://image01.bonprix.de/assets/1400x1960/0/21235285-LeLDZrY5.jpg",
+                    "url": "https://image01.bonprix.de/assets/1400x1960/0/22146673-oQwtM6rT.jpg",
                     "dimensions": {
                       "width": 0,
                       "height": 0
                     }
                   },
                   {
-                    "url": "https://image01.bonprix.de/assets/1400x1960/0/21235284-XSLTpmdm.jpg",
-                    "dimensions": {
-                      "width": 0,
-                      "height": 0
-                    }
-                  }
-                ],
-                "attributesRaw": []
-              }
-            }
-          }
-        },
-        {
-          "key": "927769",
-          "masterData": {
-            "staged": {
-              "nameAllLocales": [
-                {
-                  "locale": "de",
-                  "value": "Oversized-Pullover in Wickeloptik"
-                }
-              ],
-              "description": null,
-              "masterVariant": {
-                "images": [
-                  {
-                    "url": "https://image01.bonprix.de/assets/1400x1960/0/21139143-E8farphe.jpg",
-                    "dimensions": {
-                      "width": 0,
-                      "height": 0
-                    }
-                  },
-                  {
-                    "url": "https://image01.bonprix.de/assets/1400x1960/0/21133268-bSVbLmhB.jpg",
-                    "dimensions": {
-                      "width": 0,
-                      "height": 0
-                    }
-                  },
-                  {
-                    "url": "https://image01.bonprix.de/assets/1400x1960/0/21133277-RBeUlKpm.jpg",
-                    "dimensions": {
-                      "width": 0,
-                      "height": 0
-                    }
-                  },
-                  {
-                    "url": "https://image01.bonprix.de/assets/1400x1960/0/21133274-GTkC345b.jpg",
-                    "dimensions": {
-                      "width": 0,
-                      "height": 0
-                    }
-                  },
-                  {
-                    "url": "https://image01.bonprix.de/assets/1400x1960/0/21133267-Clb49mDa.jpg",
-                    "dimensions": {
-                      "width": 0,
-                      "height": 0
-                    }
-                  },
-                  {
-                    "url": "https://image01.bonprix.de/assets/1400x1960/0/21133260-DEtjWBNp.jpg",
+                    "url": "https://image01.bonprix.de/assets/1400x1960/0/22149790-u9lMxF5L.jpg",
                     "dimensions": {
                       "width": 0,
                       "height": 0
@@ -470,7 +430,7 @@
                   {
                     "name": "bonprixLink",
                     "value": {
-                      "de": "https://www.bonprix.de/produkt/oversized-pullover-in-wickeloptik-elfenbein-927769/"
+                      "de": "https://www.bonprix.de/produkt/schnuer-boot-beige-962393/"
                     }
                   }
                 ]
@@ -479,62 +439,34 @@
           }
         },
         {
-          "key": "928213",
+          "key": "964476",
           "masterData": {
             "staged": {
               "nameAllLocales": [
                 {
                   "locale": "de",
-                  "value": "Kleid"
+                  "value": "Wollmütze mit Good Cashmere Standard®-Anteil"
                 }
               ],
               "description": null,
               "masterVariant": {
                 "images": [
                   {
-                    "url": "https://image01.bonprix.de/assets/1400x1960/1598000701/20195549-SzIJtXWC.jpg",
+                    "url": "https://image01.bonprix.de/assets/1400x1960/1657012926/22147316-pIMt04h4.jpg",
                     "dimensions": {
                       "width": 0,
                       "height": 0
                     }
                   },
                   {
-                    "url": "https://image01.bonprix.de/assets/1400x1960/1599122081/20210386-4GqgSgJn.jpg",
+                    "url": "https://image01.bonprix.de/assets/1400x1960/0/22147321-hVB8GGC6.jpg",
                     "dimensions": {
                       "width": 0,
                       "height": 0
                     }
                   },
                   {
-                    "url": "https://image01.bonprix.de/assets/1400x1960/1599121997/20210380-pBn9gEah.jpg",
-                    "dimensions": {
-                      "width": 0,
-                      "height": 0
-                    }
-                  },
-                  {
-                    "url": "https://image01.bonprix.de/assets/1400x1960/1599121952/20210374-ntwHpS8d.jpg",
-                    "dimensions": {
-                      "width": 0,
-                      "height": 0
-                    }
-                  },
-                  {
-                    "url": "https://image01.bonprix.de/assets/1400x1960/1599122002/20210392-srP8SBJg.jpg",
-                    "dimensions": {
-                      "width": 0,
-                      "height": 0
-                    }
-                  },
-                  {
-                    "url": "https://image01.bonprix.de/assets/1400x1960/1599121950/20210387-V7rvSnC5.jpg",
-                    "dimensions": {
-                      "width": 0,
-                      "height": 0
-                    }
-                  },
-                  {
-                    "url": "https://image01.bonprix.de/assets/1400x1960/0/20187562-Z9h1FkrK.jpg",
+                    "url": "https://image01.bonprix.de/assets/1400x1960/1660893834/22143876-3rMLmG8I.jpg",
                     "dimensions": {
                       "width": 0,
                       "height": 0
@@ -545,7 +477,7 @@
                   {
                     "name": "bonprixLink",
                     "value": {
-                      "de": "https://www.bonprix.de/produkt/kleid-oliv-gebluemt-928213/"
+                      "de": "https://www.bonprix.de/produkt/wollmuetze-mit-good-cashmere-standard-anteil-beige-964476/"
                     }
                   }
                 ]
@@ -554,55 +486,55 @@
           }
         },
         {
-          "key": "940320",
+          "key": "966347",
           "masterData": {
             "staged": {
               "nameAllLocales": [
                 {
                   "locale": "de",
-                  "value": "Oversize-Ripp-Pullover"
+                  "value": "Lange Steppweste"
                 }
               ],
               "description": null,
               "masterVariant": {
                 "images": [
                   {
-                    "url": "https://image01.bonprix.de/assets/1400x1960/1544802950/18353983-JekpOJhC.jpg",
+                    "url": "https://image01.bonprix.de/assets/1400x1960/0/22179781-nGauIQSw.jpg",
                     "dimensions": {
                       "width": 0,
                       "height": 0
                     }
                   },
                   {
-                    "url": "https://image01.bonprix.de/assets/1400x1960/0/18367175-1jNIrl8r.jpg",
+                    "url": "https://image01.bonprix.de/assets/1400x1960/0/22179793-54BVmFwZ.jpg",
                     "dimensions": {
                       "width": 0,
                       "height": 0
                     }
                   },
                   {
-                    "url": "https://image01.bonprix.de/assets/1400x1960/0/18367177-29Ssky4q.jpg",
+                    "url": "https://image01.bonprix.de/assets/1400x1960/0/22179792-Ep5FGoSC.jpg",
                     "dimensions": {
                       "width": 0,
                       "height": 0
                     }
                   },
                   {
-                    "url": "https://image01.bonprix.de/assets/1400x1960/0/18366774-WvPBNLBS.jpg",
+                    "url": "https://image01.bonprix.de/assets/1400x1960/0/22179801-wQ3FINaJ.jpg",
                     "dimensions": {
                       "width": 0,
                       "height": 0
                     }
                   },
                   {
-                    "url": "https://image01.bonprix.de/assets/1400x1960/0/18367174-cXcOLc7B.jpg",
+                    "url": "https://image01.bonprix.de/assets/1400x1960/0/22179785-3yMc64va.jpg",
                     "dimensions": {
                       "width": 0,
                       "height": 0
                     }
                   },
                   {
-                    "url": "https://image01.bonprix.de/assets/1400x1960/0/18367173-RqeAm2Se.jpg",
+                    "url": "https://image01.bonprix.de/assets/1400x1960/0/22179768-sYnWm27e.jpg",
                     "dimensions": {
                       "width": 0,
                       "height": 0
@@ -613,7 +545,7 @@
                   {
                     "name": "bonprixLink",
                     "value": {
-                      "de": "https://www.bonprix.de/produkt/oversize-ripp-pullover-cremeweiss-neu-940320/"
+                      "de": "https://www.bonprix.de/produkt/lange-steppweste-maronenbraun-966347/"
                     }
                   }
                 ]
@@ -622,55 +554,55 @@
           }
         },
         {
-          "key": "940337",
+          "key": "966891",
           "masterData": {
             "staged": {
               "nameAllLocales": [
                 {
                   "locale": "de",
-                  "value": "Trendiger Blazermantel"
+                  "value": "Langer Pullover mit Zopfmuster"
                 }
               ],
               "description": null,
               "masterVariant": {
                 "images": [
                   {
-                    "url": "https://image01.bonprix.de/assets/1400x1960/1595939924/20167209-cJ56o7OH.jpg",
+                    "url": "https://image01.bonprix.de/assets/1400x1960/1659448724/22172983-jxWgLLal.jpg",
                     "dimensions": {
                       "width": 0,
                       "height": 0
                     }
                   },
                   {
-                    "url": "https://image01.bonprix.de/assets/1400x1960/1595505161/20163431-LJVeQHMW.jpg",
+                    "url": "https://image01.bonprix.de/assets/1400x1960/1658481409/22163160-FjbzGuFE.jpg",
                     "dimensions": {
                       "width": 0,
                       "height": 0
                     }
                   },
                   {
-                    "url": "https://image01.bonprix.de/assets/1400x1960/1595505262/20163430-BIVtfsK0.jpg",
+                    "url": "https://image01.bonprix.de/assets/1400x1960/1658481334/22163154-SXb1P01j.jpg",
                     "dimensions": {
                       "width": 0,
                       "height": 0
                     }
                   },
                   {
-                    "url": "https://image01.bonprix.de/assets/1400x1960/1595505185/20163435-5ZZuaZQV.jpg",
+                    "url": "https://image01.bonprix.de/assets/1400x1960/1658500608/22163435-lvpdCQZD.jpg",
                     "dimensions": {
                       "width": 0,
                       "height": 0
                     }
                   },
                   {
-                    "url": "https://image01.bonprix.de/assets/1400x1960/1595505104/20163463-s2hunQpi.jpg",
+                    "url": "https://image01.bonprix.de/assets/1400x1960/1658543327/22163657-MwrEqbj8.jpg",
                     "dimensions": {
                       "width": 0,
                       "height": 0
                     }
                   },
                   {
-                    "url": "https://image01.bonprix.de/assets/1400x1960/1595505014/20163446-P4H8ThVi.jpg",
+                    "url": "https://image01.bonprix.de/assets/1400x1960/1658481403/22163155-IOXKGc6B.jpg",
                     "dimensions": {
                       "width": 0,
                       "height": 0
@@ -681,7 +613,7 @@
                   {
                     "name": "bonprixLink",
                     "value": {
-                      "de": "https://www.bonprix.de/produkt/trendiger-blazermantel-quarzrot-940337/"
+                      "de": "https://www.bonprix.de/produkt/langer-pullover-mit-zopfmuster-kieselbeige-966891/"
                     }
                   }
                 ]
@@ -690,55 +622,55 @@
           }
         },
         {
-          "key": "943274",
+          "key": "968175",
           "masterData": {
             "staged": {
               "nameAllLocales": [
                 {
                   "locale": "de",
-                  "value": "Oversize Strickjacke"
+                  "value": "Woll-Troyer mit Good Cashmere Standard®-Anteil"
                 }
               ],
               "description": null,
               "masterVariant": {
                 "images": [
                   {
-                    "url": "https://image01.bonprix.de/assets/1400x1960/1624024086/21149155-eq4Zmu2P.jpg",
+                    "url": "https://image01.bonprix.de/assets/1400x1960/1656934918/22145884-bNTPexQ0.jpg",
                     "dimensions": {
                       "width": 0,
                       "height": 0
                     }
                   },
                   {
-                    "url": "https://image01.bonprix.de/assets/1400x1960/1625124604/21161572-qiggTtEM.jpg",
+                    "url": "https://image01.bonprix.de/assets/1400x1960/0/22201899-c8xiCk4X.jpg",
                     "dimensions": {
                       "width": 0,
                       "height": 0
                     }
                   },
                   {
-                    "url": "https://image01.bonprix.de/assets/1400x1960/0/21161570-AAdjtabZ.jpg",
+                    "url": "https://image01.bonprix.de/assets/1400x1960/1656934929/22145874-ZzEsBXvv.jpg",
                     "dimensions": {
                       "width": 0,
                       "height": 0
                     }
                   },
                   {
-                    "url": "https://image01.bonprix.de/assets/1400x1960/0/21161580-sjl3FrQR.jpg",
+                    "url": "https://image01.bonprix.de/assets/1400x1960/0/22145877-TpZ1lSiY.jpg",
                     "dimensions": {
                       "width": 0,
                       "height": 0
                     }
                   },
                   {
-                    "url": "https://image01.bonprix.de/assets/1400x1960/1625124606/21161565-l4mLCXp5.jpg",
+                    "url": "https://image01.bonprix.de/assets/1400x1960/1656935063/22145929-KKveWTU0.jpg",
                     "dimensions": {
                       "width": 0,
                       "height": 0
                     }
                   },
                   {
-                    "url": "https://image01.bonprix.de/assets/1400x1960/1625124607/21161561-ZycLDPPh.jpg",
+                    "url": "https://image01.bonprix.de/assets/1400x1960/1656934961/22145876-hiNdb4Tz.jpg",
                     "dimensions": {
                       "width": 0,
                       "height": 0
@@ -749,7 +681,7 @@
                   {
                     "name": "bonprixLink",
                     "value": {
-                      "de": "https://www.bonprix.de/produkt/oversize-strickjacke-rauchsalbei-meliert-943274/"
+                      "de": "https://www.bonprix.de/produkt/woll-troyer-mit-good-cashmere-standard-anteil-wollweiss-968175/"
                     }
                   }
                 ]
@@ -758,62 +690,34 @@
           }
         },
         {
-          "key": "944327",
+          "key": "970372",
           "masterData": {
             "staged": {
               "nameAllLocales": [
                 {
                   "locale": "de",
-                  "value": "Pullunder"
+                  "value": "Cap"
                 }
               ],
               "description": null,
               "masterVariant": {
                 "images": [
                   {
-                    "url": "https://image01.bonprix.de/assets/1400x1960/1624468238/21153340-oZOuHwcQ.jpg",
+                    "url": "https://image01.bonprix.de/assets/1400x1960/0/22149953-P89zxAhi.jpg",
                     "dimensions": {
                       "width": 0,
                       "height": 0
                     }
                   },
                   {
-                    "url": "https://image01.bonprix.de/assets/1400x1960/1625145361/21153573-DjwDzIKM.jpg",
+                    "url": "https://image01.bonprix.de/assets/1400x1960/0/22149974-oArUxmg6.jpg",
                     "dimensions": {
                       "width": 0,
                       "height": 0
                     }
                   },
                   {
-                    "url": "https://image01.bonprix.de/assets/1400x1960/1625145370/21153572-kqVTYp1m.jpg",
-                    "dimensions": {
-                      "width": 0,
-                      "height": 0
-                    }
-                  },
-                  {
-                    "url": "https://image01.bonprix.de/assets/1400x1960/0/21153569-kfE8W8Il.jpg",
-                    "dimensions": {
-                      "width": 0,
-                      "height": 0
-                    }
-                  },
-                  {
-                    "url": "https://image01.bonprix.de/assets/1400x1960/0/21153567-ofXyWE0Y.jpg",
-                    "dimensions": {
-                      "width": 0,
-                      "height": 0
-                    }
-                  },
-                  {
-                    "url": "https://image01.bonprix.de/assets/1400x1960/1625145398/21153568-6dk9SEg7.jpg",
-                    "dimensions": {
-                      "width": 0,
-                      "height": 0
-                    }
-                  },
-                  {
-                    "url": "https://image01.bonprix.de/assets/1400x1960/0/22153924-xu8ET1yd.jpg",
+                    "url": "https://image01.bonprix.de/assets/1400x1960/0/22142391-dZrnITs6.jpg",
                     "dimensions": {
                       "width": 0,
                       "height": 0
@@ -824,7 +728,654 @@
                   {
                     "name": "bonprixLink",
                     "value": {
-                      "de": "https://www.bonprix.de/produkt/pullunder-hellgrau-meliert-944327/"
+                      "de": "https://www.bonprix.de/produkt/cap-camel-970372/"
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        },
+        {
+          "key": "971101",
+          "masterData": {
+            "staged": {
+              "nameAllLocales": [
+                {
+                  "locale": "de",
+                  "value": "Lederimitat-Hose"
+                }
+              ],
+              "description": null,
+              "masterVariant": {
+                "images": [
+                  {
+                    "url": "https://image01.bonprix.de/assets/1400x1960/1657005936/22147031-6p2XLDnJ.jpg",
+                    "dimensions": {
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "url": "https://image01.bonprix.de/assets/1400x1960/1657548846/22138232-Y5fs2mIQ.jpg",
+                    "dimensions": {
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "url": "https://image01.bonprix.de/assets/1400x1960/1657548819/22138256-AoO19w8K.jpg",
+                    "dimensions": {
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "url": "https://image01.bonprix.de/assets/1400x1960/1656061742/22138244-FCMarckI.jpg",
+                    "dimensions": {
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "url": "https://image01.bonprix.de/assets/1400x1960/1657632367/22138253-We3D1RTj.jpg",
+                    "dimensions": {
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "url": "https://image01.bonprix.de/assets/1400x1960/1656061743/22138245-sbgV0GlL.jpg",
+                    "dimensions": {
+                      "width": 0,
+                      "height": 0
+                    }
+                  }
+                ],
+                "attributesRaw": [
+                  {
+                    "name": "bonprixLink",
+                    "value": {
+                      "de": "https://www.bonprix.de/produkt/lederimitat-hose-dunkelbraun-971101/"
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        },
+        {
+          "key": "971379",
+          "masterData": {
+            "staged": {
+              "nameAllLocales": [
+                {
+                  "locale": "de",
+                  "value": "Mom-Jeans aus reiner Baumwolle"
+                }
+              ],
+              "description": null,
+              "masterVariant": {
+                "images": [
+                  {
+                    "url": "https://image01.bonprix.de/assets/1400x1960/1659448410/22172932-bnWkp1r1.jpg",
+                    "dimensions": {
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "url": "https://image01.bonprix.de/assets/1400x1960/1658303061/22161414-SNHYpTha.jpg",
+                    "dimensions": {
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "url": "https://image01.bonprix.de/assets/1400x1960/1658293217/22161096-cgQM25c9.jpg",
+                    "dimensions": {
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "url": "https://image01.bonprix.de/assets/1400x1960/1658303191/22161418-8IVxIRgF.jpg",
+                    "dimensions": {
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "url": "https://image01.bonprix.de/assets/1400x1960/1658293278/22161108-M6ASRVZM.jpg",
+                    "dimensions": {
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "url": "https://image01.bonprix.de/assets/1400x1960/1658287821/22161017-ZMYHYILJ.jpg",
+                    "dimensions": {
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "url": "https://image01.bonprix.de/assets/1400x1960/0/22186456-eKhmcT7l.jpg",
+                    "dimensions": {
+                      "width": 0,
+                      "height": 0
+                    }
+                  }
+                ],
+                "attributesRaw": [
+                  {
+                    "name": "bonprixLink",
+                    "value": {
+                      "de": "https://www.bonprix.de/produkt/mom-jeans-aus-reiner-baumwolle-blau-denim-971379/"
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        },
+        {
+          "key": "971481",
+          "masterData": {
+            "staged": {
+              "nameAllLocales": [
+                {
+                  "locale": "de",
+                  "value": "Shaping-Stetch-Jeans, Skinny"
+                }
+              ],
+              "description": null,
+              "masterVariant": {
+                "images": [
+                  {
+                    "url": "https://image01.bonprix.de/assets/1400x1960/0/22136126-Ef3IkoDb.jpg",
+                    "dimensions": {
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "url": "https://image01.bonprix.de/assets/1400x1960/1655897926/22136143-qDjuy1kp.jpg",
+                    "dimensions": {
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "url": "https://image01.bonprix.de/assets/1400x1960/1655897968/22136148-DzVPekfH.jpg",
+                    "dimensions": {
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "url": "https://image01.bonprix.de/assets/1400x1960/0/22136136-94vaTtjK.jpg",
+                    "dimensions": {
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "url": "https://image01.bonprix.de/assets/1400x1960/1655897786/22136133-L487rZNq.jpg",
+                    "dimensions": {
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "url": "https://image01.bonprix.de/assets/1400x1960/0/22136128-CM8YLxFI.jpg",
+                    "dimensions": {
+                      "width": 0,
+                      "height": 0
+                    }
+                  }
+                ],
+                "attributesRaw": [
+                  {
+                    "name": "bonprixLink",
+                    "value": {
+                      "de": "https://www.bonprix.de/produkt/shaping-stetch-jeans-skinny-schwarz-denim-used-971481/"
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        },
+        {
+          "key": "973352",
+          "masterData": {
+            "staged": {
+              "nameAllLocales": [
+                {
+                  "locale": "de",
+                  "value": "Oversize-Pullover"
+                }
+              ],
+              "description": null,
+              "masterVariant": {
+                "images": [
+                  {
+                    "url": "https://image01.bonprix.de/assets/1400x1960/1655708694/22133052-LsUnFHCc.jpg",
+                    "dimensions": {
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "url": "https://image01.bonprix.de/assets/1400x1960/1656322278/22139375-j9A3bWxk.jpg",
+                    "dimensions": {
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "url": "https://image01.bonprix.de/assets/1400x1960/1656322257/22139374-2kvGJqOh.jpg",
+                    "dimensions": {
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "url": "https://image01.bonprix.de/assets/1400x1960/1656322257/22139373-wXFt1GGI.jpg",
+                    "dimensions": {
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "url": "https://image01.bonprix.de/assets/1400x1960/1656322276/22139376-6XTyGmDf.jpg",
+                    "dimensions": {
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "url": "https://image01.bonprix.de/assets/1400x1960/1656322274/22139372-4D5Pvnug.jpg",
+                    "dimensions": {
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "url": "https://image01.bonprix.de/assets/1400x1960/0/22154086-H0SWBLSR.jpg",
+                    "dimensions": {
+                      "width": 0,
+                      "height": 0
+                    }
+                  }
+                ],
+                "attributesRaw": [
+                  {
+                    "name": "bonprixLink",
+                    "value": {
+                      "de": "https://www.bonprix.de/produkt/oversize-pullover-hellsand-973352/"
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        },
+        {
+          "key": "975285",
+          "masterData": {
+            "staged": {
+              "nameAllLocales": [
+                {
+                  "locale": "de",
+                  "value": "Umhängetasche"
+                }
+              ],
+              "description": null,
+              "masterVariant": {
+                "images": [
+                  {
+                    "url": "https://image01.bonprix.de/assets/1400x1960/1657196951/22148052-Atuvdg3I.jpg",
+                    "dimensions": {
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "url": "https://image01.bonprix.de/assets/1400x1960/1657196954/22130020-dBeXnB4j.jpg",
+                    "dimensions": {
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "url": "https://image01.bonprix.de/assets/1400x1960/1657090923/22148062-TJgvHMcj.jpg",
+                    "dimensions": {
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "url": "https://image01.bonprix.de/assets/1400x1960/1657610010/22153197-6Za9Op5D.jpg",
+                    "dimensions": {
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "url": "https://image01.bonprix.de/assets/1400x1960/1657090956/22148066-iCQ9y9LM.jpg",
+                    "dimensions": {
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "url": "https://image01.bonprix.de/assets/1400x1960/1657091037/22148073-id4bWujE.jpg",
+                    "dimensions": {
+                      "width": 0,
+                      "height": 0
+                    }
+                  }
+                ],
+                "attributesRaw": [
+                  {
+                    "name": "bonprixLink",
+                    "value": {
+                      "de": "https://www.bonprix.de/produkt/umhaengetasche-dunkelbraun-975285/"
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        },
+        {
+          "key": "976070",
+          "masterData": {
+            "staged": {
+              "nameAllLocales": [
+                {
+                  "locale": "de",
+                  "value": "Cordblazer"
+                }
+              ],
+              "description": null,
+              "masterVariant": {
+                "images": [
+                  {
+                    "url": "https://image01.bonprix.de/assets/1400x1960/1657008907/22147147-hdv1GViB.jpg",
+                    "dimensions": {
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "url": "https://image01.bonprix.de/assets/1400x1960/1656317452/22139227-gAepoU6H.jpg",
+                    "dimensions": {
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "url": "https://image01.bonprix.de/assets/1400x1960/1656317463/22139233-lXRToxXF.jpg",
+                    "dimensions": {
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "url": "https://image01.bonprix.de/assets/1400x1960/1656317433/22139223-ZRgMYGIm.jpg",
+                    "dimensions": {
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "url": "https://image01.bonprix.de/assets/1400x1960/1656317415/22139238-eCTu7Ocv.jpg",
+                    "dimensions": {
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "url": "https://image01.bonprix.de/assets/1400x1960/1656317485/22139228-5HHCJt34.jpg",
+                    "dimensions": {
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "url": "https://image01.bonprix.de/assets/1400x1960/0/22154423-dU24gjhG.jpg",
+                    "dimensions": {
+                      "width": 0,
+                      "height": 0
+                    }
+                  }
+                ],
+                "attributesRaw": [
+                  {
+                    "name": "bonprixLink",
+                    "value": {
+                      "de": "https://www.bonprix.de/produkt/cordblazer-mahagonibraun-976070/"
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        },
+        {
+          "key": "976955",
+          "masterData": {
+            "staged": {
+              "nameAllLocales": [
+                {
+                  "locale": "de",
+                  "value": "Cape"
+                }
+              ],
+              "description": null,
+              "masterVariant": {
+                "images": [
+                  {
+                    "url": "https://image01.bonprix.de/assets/1400x1960/1658321862/22161901-d3NZ3FjY.jpg",
+                    "dimensions": {
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "url": "https://image01.bonprix.de/assets/1400x1960/1658321921/22161904-jaUGwBZ8.jpg",
+                    "dimensions": {
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "url": "https://image01.bonprix.de/assets/1400x1960/1658321951/22161906-q5NYDpVE.jpg",
+                    "dimensions": {
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "url": "https://image01.bonprix.de/assets/1400x1960/1658321935/22161908-Icg7gxRY.jpg",
+                    "dimensions": {
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "url": "https://image01.bonprix.de/assets/1400x1960/1658321932/22161907-tfDQpYug.jpg",
+                    "dimensions": {
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "url": "https://image01.bonprix.de/assets/1400x1960/1658321923/22161903-XAEteS3M.jpg",
+                    "dimensions": {
+                      "width": 0,
+                      "height": 0
+                    }
+                  }
+                ],
+                "attributesRaw": [
+                  {
+                    "name": "bonprixLink",
+                    "value": {
+                      "de": "https://www.bonprix.de/produkt/cape-latte-macchiato-976955/"
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        },
+        {
+          "key": "977755",
+          "masterData": {
+            "staged": {
+              "nameAllLocales": [
+                {
+                  "locale": "de",
+                  "value": "Marco Tozzi Chunky Loafer"
+                }
+              ],
+              "description": null,
+              "masterVariant": {
+                "images": [
+                  {
+                    "url": "https://image01.bonprix.de/assets/1400x1960/0/22130936-AAAYIJvu.jpg",
+                    "dimensions": {
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "url": "https://image01.bonprix.de/assets/1400x1960/0/22130937-rpY5jlf0.jpg",
+                    "dimensions": {
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "url": "https://image01.bonprix.de/assets/1400x1960/0/22130935-AJgObMJh.jpg",
+                    "dimensions": {
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "url": "https://image01.bonprix.de/assets/1400x1960/0/22130939-oxaDP4yC.jpg",
+                    "dimensions": {
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "url": "https://image01.bonprix.de/assets/1400x1960/0/22130938-VIhyF55d.jpg",
+                    "dimensions": {
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "url": "https://image01.bonprix.de/assets/1400x1960/0/22129747-BftXk6SH.jpg",
+                    "dimensions": {
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "url": "https://image01.bonprix.de/assets/1400x1960/0/22130694-HfcvwdC2.jpg",
+                    "dimensions": {
+                      "width": 0,
+                      "height": 0
+                    }
+                  }
+                ],
+                "attributesRaw": [
+                  {
+                    "name": "bonprixLink",
+                    "value": {
+                      "de": "https://www.bonprix.de/produkt/marco-tozzi-chunky-loafer-creme-977755/"
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        },
+        {
+          "key": "977889",
+          "masterData": {
+            "staged": {
+              "nameAllLocales": [
+                {
+                  "locale": "de",
+                  "value": "Chunky Loafer"
+                }
+              ],
+              "description": null,
+              "masterVariant": {
+                "images": [
+                  {
+                    "url": "https://image01.bonprix.de/assets/1400x1960/0/22121559-7YkLCPzK.jpg",
+                    "dimensions": {
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "url": "https://image01.bonprix.de/assets/1400x1960/0/22121562-nyWLFnYy.jpg",
+                    "dimensions": {
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "url": "https://image01.bonprix.de/assets/1400x1960/0/22121584-jQapEFFg.jpg",
+                    "dimensions": {
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "url": "https://image01.bonprix.de/assets/1400x1960/0/22121581-gItSGXHm.jpg",
+                    "dimensions": {
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "url": "https://image01.bonprix.de/assets/1400x1960/0/22121566-Zf2rVnEI.jpg",
+                    "dimensions": {
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "url": "https://image01.bonprix.de/assets/1400x1960/0/22127387-ZOK5Tbfo.jpg",
+                    "dimensions": {
+                      "width": 0,
+                      "height": 0
+                    }
+                  },
+                  {
+                    "url": "https://image01.bonprix.de/assets/1400x1960/0/22120707-JiUZ7E0G.jpg",
+                    "dimensions": {
+                      "width": 0,
+                      "height": 0
+                    }
+                  }
+                ],
+                "attributesRaw": [
+                  {
+                    "name": "bonprixLink",
+                    "value": {
+                      "de": "https://www.bonprix.de/produkt/chunky-loafer-creme-977889/"
                     }
                   }
                 ]
@@ -838,11 +1389,18 @@
   "errors": [
     {
       "message": "Exactly one of following arguments required: `locale`, `acceptLanguage`.",
-      "path": ["products", "results", 0, "masterData", "staged", "description"],
+      "path": [
+        "products",
+        "results",
+        0,
+        "masterData",
+        "staged",
+        "description"
+      ],
       "locations": [
         {
-          "line": 24,
-          "column": 11
+          "line": 11,
+          "column": 9
         }
       ],
       "code": "InvalidInput",
@@ -852,11 +1410,18 @@
     },
     {
       "message": "Exactly one of following arguments required: `locale`, `acceptLanguage`.",
-      "path": ["products", "results", 1, "masterData", "staged", "description"],
+      "path": [
+        "products",
+        "results",
+        1,
+        "masterData",
+        "staged",
+        "description"
+      ],
       "locations": [
         {
-          "line": 24,
-          "column": 11
+          "line": 11,
+          "column": 9
         }
       ],
       "code": "InvalidInput",
@@ -866,11 +1431,18 @@
     },
     {
       "message": "Exactly one of following arguments required: `locale`, `acceptLanguage`.",
-      "path": ["products", "results", 2, "masterData", "staged", "description"],
+      "path": [
+        "products",
+        "results",
+        2,
+        "masterData",
+        "staged",
+        "description"
+      ],
       "locations": [
         {
-          "line": 24,
-          "column": 11
+          "line": 11,
+          "column": 9
         }
       ],
       "code": "InvalidInput",
@@ -880,11 +1452,18 @@
     },
     {
       "message": "Exactly one of following arguments required: `locale`, `acceptLanguage`.",
-      "path": ["products", "results", 3, "masterData", "staged", "description"],
+      "path": [
+        "products",
+        "results",
+        3,
+        "masterData",
+        "staged",
+        "description"
+      ],
       "locations": [
         {
-          "line": 24,
-          "column": 11
+          "line": 11,
+          "column": 9
         }
       ],
       "code": "InvalidInput",
@@ -894,11 +1473,18 @@
     },
     {
       "message": "Exactly one of following arguments required: `locale`, `acceptLanguage`.",
-      "path": ["products", "results", 4, "masterData", "staged", "description"],
+      "path": [
+        "products",
+        "results",
+        4,
+        "masterData",
+        "staged",
+        "description"
+      ],
       "locations": [
         {
-          "line": 24,
-          "column": 11
+          "line": 11,
+          "column": 9
         }
       ],
       "code": "InvalidInput",
@@ -908,11 +1494,18 @@
     },
     {
       "message": "Exactly one of following arguments required: `locale`, `acceptLanguage`.",
-      "path": ["products", "results", 5, "masterData", "staged", "description"],
+      "path": [
+        "products",
+        "results",
+        5,
+        "masterData",
+        "staged",
+        "description"
+      ],
       "locations": [
         {
-          "line": 24,
-          "column": 11
+          "line": 11,
+          "column": 9
         }
       ],
       "code": "InvalidInput",
@@ -922,11 +1515,18 @@
     },
     {
       "message": "Exactly one of following arguments required: `locale`, `acceptLanguage`.",
-      "path": ["products", "results", 6, "masterData", "staged", "description"],
+      "path": [
+        "products",
+        "results",
+        6,
+        "masterData",
+        "staged",
+        "description"
+      ],
       "locations": [
         {
-          "line": 24,
-          "column": 11
+          "line": 11,
+          "column": 9
         }
       ],
       "code": "InvalidInput",
@@ -936,11 +1536,18 @@
     },
     {
       "message": "Exactly one of following arguments required: `locale`, `acceptLanguage`.",
-      "path": ["products", "results", 7, "masterData", "staged", "description"],
+      "path": [
+        "products",
+        "results",
+        7,
+        "masterData",
+        "staged",
+        "description"
+      ],
       "locations": [
         {
-          "line": 24,
-          "column": 11
+          "line": 11,
+          "column": 9
         }
       ],
       "code": "InvalidInput",
@@ -950,11 +1557,18 @@
     },
     {
       "message": "Exactly one of following arguments required: `locale`, `acceptLanguage`.",
-      "path": ["products", "results", 8, "masterData", "staged", "description"],
+      "path": [
+        "products",
+        "results",
+        8,
+        "masterData",
+        "staged",
+        "description"
+      ],
       "locations": [
         {
-          "line": 24,
-          "column": 11
+          "line": 11,
+          "column": 9
         }
       ],
       "code": "InvalidInput",
@@ -964,11 +1578,18 @@
     },
     {
       "message": "Exactly one of following arguments required: `locale`, `acceptLanguage`.",
-      "path": ["products", "results", 9, "masterData", "staged", "description"],
+      "path": [
+        "products",
+        "results",
+        9,
+        "masterData",
+        "staged",
+        "description"
+      ],
       "locations": [
         {
-          "line": 24,
-          "column": 11
+          "line": 11,
+          "column": 9
         }
       ],
       "code": "InvalidInput",
@@ -988,8 +1609,8 @@
       ],
       "locations": [
         {
-          "line": 24,
-          "column": 11
+          "line": 11,
+          "column": 9
         }
       ],
       "code": "InvalidInput",
@@ -1009,8 +1630,176 @@
       ],
       "locations": [
         {
-          "line": 24,
-          "column": 11
+          "line": 11,
+          "column": 9
+        }
+      ],
+      "code": "InvalidInput",
+      "extensions": {
+        "code": "InvalidInput"
+      }
+    },
+    {
+      "message": "Exactly one of following arguments required: `locale`, `acceptLanguage`.",
+      "path": [
+        "products",
+        "results",
+        12,
+        "masterData",
+        "staged",
+        "description"
+      ],
+      "locations": [
+        {
+          "line": 11,
+          "column": 9
+        }
+      ],
+      "code": "InvalidInput",
+      "extensions": {
+        "code": "InvalidInput"
+      }
+    },
+    {
+      "message": "Exactly one of following arguments required: `locale`, `acceptLanguage`.",
+      "path": [
+        "products",
+        "results",
+        13,
+        "masterData",
+        "staged",
+        "description"
+      ],
+      "locations": [
+        {
+          "line": 11,
+          "column": 9
+        }
+      ],
+      "code": "InvalidInput",
+      "extensions": {
+        "code": "InvalidInput"
+      }
+    },
+    {
+      "message": "Exactly one of following arguments required: `locale`, `acceptLanguage`.",
+      "path": [
+        "products",
+        "results",
+        14,
+        "masterData",
+        "staged",
+        "description"
+      ],
+      "locations": [
+        {
+          "line": 11,
+          "column": 9
+        }
+      ],
+      "code": "InvalidInput",
+      "extensions": {
+        "code": "InvalidInput"
+      }
+    },
+    {
+      "message": "Exactly one of following arguments required: `locale`, `acceptLanguage`.",
+      "path": [
+        "products",
+        "results",
+        15,
+        "masterData",
+        "staged",
+        "description"
+      ],
+      "locations": [
+        {
+          "line": 11,
+          "column": 9
+        }
+      ],
+      "code": "InvalidInput",
+      "extensions": {
+        "code": "InvalidInput"
+      }
+    },
+    {
+      "message": "Exactly one of following arguments required: `locale`, `acceptLanguage`.",
+      "path": [
+        "products",
+        "results",
+        16,
+        "masterData",
+        "staged",
+        "description"
+      ],
+      "locations": [
+        {
+          "line": 11,
+          "column": 9
+        }
+      ],
+      "code": "InvalidInput",
+      "extensions": {
+        "code": "InvalidInput"
+      }
+    },
+    {
+      "message": "Exactly one of following arguments required: `locale`, `acceptLanguage`.",
+      "path": [
+        "products",
+        "results",
+        17,
+        "masterData",
+        "staged",
+        "description"
+      ],
+      "locations": [
+        {
+          "line": 11,
+          "column": 9
+        }
+      ],
+      "code": "InvalidInput",
+      "extensions": {
+        "code": "InvalidInput"
+      }
+    },
+    {
+      "message": "Exactly one of following arguments required: `locale`, `acceptLanguage`.",
+      "path": [
+        "products",
+        "results",
+        18,
+        "masterData",
+        "staged",
+        "description"
+      ],
+      "locations": [
+        {
+          "line": 11,
+          "column": 9
+        }
+      ],
+      "code": "InvalidInput",
+      "extensions": {
+        "code": "InvalidInput"
+      }
+    },
+    {
+      "message": "Exactly one of following arguments required: `locale`, `acceptLanguage`.",
+      "path": [
+        "products",
+        "results",
+        19,
+        "masterData",
+        "staged",
+        "description"
+      ],
+      "locations": [
+        {
+          "line": 11,
+          "column": 9
         }
       ],
       "code": "InvalidInput",
