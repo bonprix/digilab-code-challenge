@@ -1,4 +1,7 @@
 # Digilab Code Challenge
+
+![C1 - Public](https://badgen.net/badge/C1/Public/green) 
+
 Welcome, this is the bonprix Digilab Code Challenge.
 
 You will be building a website that fetches data about some outfits
@@ -78,3 +81,13 @@ To learn more about Next.js, take a look at the following resources:
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+
+---
+## Contact
+* Digilab
+  * <a href="https://teams.microsoft.com/l/team/19%3ab3a585d7f7254a54bb4bcc03db5a378e%40thread.skype/conversations?groupId=efcccd96-4e15-48d4-98f7-99e5786ab08d&tenantId=8794e153-c3bd-4479-8bea-61aeaf167d5a">
+      <img align="center" src="https://img.icons8.com/fluency/24/microsoft-teams-2019.png"> Teams Channel Digilab
+    </a>
+  * <a href="mailto:digilab@bonprix.net">
+      <img align="center" src="https://img.icons8.com/fluency/24/mail.png"> digilab@bonprix.net
+    </a> 
